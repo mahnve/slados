@@ -1,4 +1,15 @@
-.splash-container {
-    background-image: url(/img/splash.jpg);
-    background-repeat: none;
+.splash-head {
+    border: none;
 }
+    .splash-container {
+        background-image: url(/img/splash.jpg);
+        background-repeat: no-repeat;
+        height: 50%;
+    }
+    .splash {
+        background: rgba(40,40,40,0.5);
+    }
+
+    .content-wrapper {
+        top: 50%;
+    }
