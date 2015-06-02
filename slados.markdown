@@ -150,10 +150,13 @@ begränsningen är att du inte får använda mindre än 1000 utvecklare.
 Who has time to change an organization when you have to run a project
 with 1000 full time equivalents? Noone.
 
-Following the lead of all other popular processes the last ten years,
-SLADOS does not require you to change your organization or
-process. Keep doing whatever you’ve been doing, and just change the
-name. The promise of other, completely different organizations,
+## Conclusion
+
+SLADOS helps you navigate on the open sea of Agile, makes sure you can
+keep doing whatever you’ve been doing, and just change the
+name.
+
+The promise of other, completely different organizations,
 improving by actual change will help keep enthusiasm for this new
 process alive
 
@@ -162,11 +165,8 @@ process alive
 De vanligaste frågorna vi får:
 
 Q: Hur förhåller sig detta till CMMI och ITIL?
-A: Bättre.
+A: Som tre Legobitar som passar jättebra ihop.
 
-Q: Är det kompatibelt med SharePoint
+Q: Är det kompatibelt med SharePoint?
 A: Ja.
 
-## One More Thing. Agil Ungdom
-
-För att få ett fast grepp om morgondagens ledare
