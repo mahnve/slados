@@ -2,7 +2,7 @@
 
 ## Introduktion
 
-Good evening fellow consultants!
+Good evening fellow consultants and managers!
 
 Before I get started, let me just assure, that SLADOS is for you.
 SLADOS Is For Everyone, including You In The Back Leaving. SLADOS
@@ -10,10 +10,10 @@ don't let you get away.
 
 In the modern software development world, the new yardstick is
 measured in how agile you are. Are you're tired of being less agile
-than the others? SLADOS is for you!
-
-Other methodologies have shown admirable lapses of judgement in what
-they call agile, but with SLADOS the game changes completely.
+than the others? SLADOS is for you! SLADOS är processernas
+motsvarighet till en dansk glass, det räcker inte med 3 kg glass och
+grädde i en strut stor som en vägkon, utan för att verkligen markera
+ett tydligt överflöd tjongar vi på en chokladboll på toppen.
 
 ## The Manifesto
 
@@ -32,10 +32,12 @@ and came out of the fog with the following:
 > * Responding to change over following a plan
 
 > That is, while there is value in the items on the right, we value
-> the items on the left more.
+> the items on the left
 
-Värdet finns uppenbarligen på vänster sida. Det till höger är något
-deras barn släpat hem från slöjden.
+Det är ungefär som att säga "Ja, Chagalltavlan i vardagsrummet är
+värdefull, men jag värderar grytlappen du gjorde i slöjden mer". Det
+är för väl att det till slut kom in några ekonomer och röjde upp i den
+här röran.
 
 Now, you're probably wondering where's the business in all of this?
 Well I'm here to tell you.
@@ -46,16 +48,31 @@ Well I'm here to tell you.
 > developing software by talking a lot about it and letting others do
 > it.  We want a part of this.
 
-Learning an agile process is sometimes likened to following a path
-path. That's probably great. We will provide you with some great
-stories about a possible path, all while staying within the comfort of
-the process you already know well
+So, welcome to SLADOS, your one-stop shop for surviving in the agile
+djungle.
+
+We provide best-practice knowledge and cutting edge merhandise Other
+processes talk about learning agile as following a path with no clear
+destination. That's probably great for Linux using, linssoppeätande
+grottmiffon, men för oss som vill tjäna pengar så finns SLADOS. SLADOS
+låter dig vara precis så agil som du vill samtidigt som du fortsätter
+arbeta på samma trygga sätt du alltid gjort.
+
+
+## Management
 
 Traditional safe, lean, agile devops software development approaches
 often fail to deliver software that meets business requirements on
 time and within budget. Some people say it's because it's an inherent
 trait in software development, and that noone can predict things that
 hasn't been done before. We're saying they're not trying hard enough.
+
+And när folk inte försöker tillräckligt mycket, vad behövs då? Helt
+rätt, management. Telling people what to do is what management is good
+at, and SLADOS allows you to excel.
+
+
+## Handling all the methodologies
 
 We know that the problem of being agile is not changing management
 ways, or shortening feedback cycles, or learning the third verse of
@@ -66,6 +83,8 @@ stream of new agile methods that keep popping up, with even more
 ridiculous names.
 
 * Scrum
+* DSDM
+* Crystal Clear
 * Lean
 * Kanban
 * Scrumban
@@ -75,23 +94,30 @@ ridiculous names.
 * LeanOps
 * Rupban
 
-Det är inte så konstigt att både Lean och Pokemon kommer från
-Japan. Måste fånga alla. Det är som ett veritabelt
-samlaralbum. [Pokemonbilder]
 
 Today, we're introducing a product package to help you manage your
 agile methodology knowledge portfolio.
 
-As a basic subscriber you will get a copy of our quarterly agile
+All enterprise subscribers will get a copy of our quarterly agile
 methodology radar, where our agile public relations specialists lists
 what's in and what's out in the agile world
 
 [BILD]
 
-Our medium customer will be able to subscribe to certifications in
-these new methodologies. So, if you have the 10-seat package, and this
-new LeanBanOps thing comes around, we will automatically give you 10
-certifications.
+Det är inte så konstigt att både Lean och Pokemon kommer från
+Japan. Måste fånga alla. Det är som ett veritabelt
+samlaralbum. [Pokemonbilder]. Vilket leder oss till en annan SLADOS
+produkt: samlaralbumet Mina vänner agila metoderna. Här kan man skriva
+in alla agila metoder man har gjort.
+
+
+## Certifications
+
+Our customers will be able to subscribe to certifications in these new
+methodologies. So, if you have the 10-seat package, and this new
+LeanBanOps thing comes around, we will automatically give you 10
+certifications. Our certifications are certified by the best
+certification certifiers available.
 
 There is no need to send your workers for any actual certification
 training, but seriously, you never did. This way, we make money, your
@@ -101,7 +127,7 @@ certifications. Total win-win.
 The final level is for those of our clients that requires that their
 certifications has names from a completely
 
-## Enterprise
+## Enterprise Scale
 
 Om en mjukvara släpps och ingen har mätt velocity, finns den? Kanske
 hos några användare, men inte i din nästa 360-review.
@@ -118,15 +144,11 @@ tydlig arbetsbeskrivning med toll gates, dead lines, avstämningar. Var
 
 För detta räcker inte de gamla metoderna.
 
-Ikväll introducerar vi Constraint driven development, där
+Ikväll introducerar vi även Constraint driven development, där
 begränsningen är att du inte får använda mindre än 1000 utvecklare.
 
 Who has time to change an organization when you have to run a project
-with 1000 full time equivalents? Noone. Telling people what to do is
-what management is good at, and SLADOS allows you to excel.
-
-Processernas motsvarighet till en dansk glass, det räcker inte med 3
-kg glass och grädde, utan vi avslutar med en chokladboll på toppen
+with 1000 full time equivalents? Noone.
 
 Following the lead of all other popular processes the last ten years,
 SLADOS does not require you to change your organization or
@@ -134,7 +156,6 @@ process. Keep doing whatever you’ve been doing, and just change the
 name. The promise of other, completely different organizations,
 improving by actual change will help keep enthusiasm for this new
 process alive
-
 
 ## FAQ
 
@@ -145,3 +166,7 @@ A: Bättre.
 
 Q: Är det kompatibelt med SharePoint
 A: Ja.
+
+## One More Thing. Agil Ungdom
+
+För att få ett fast grepp om morgondagens ledare
