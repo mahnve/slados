@@ -1,4 +1,12 @@
-SLADOS Is For Everyone, Including You In The Back Leaving.</h2>
+# SLADOS
+
+## Introduktion
+
+Good evening fellow consultants!
+
+Before I get started, let me just assure, that SLADOS is for you.
+SLADOS Is For Everyone, including You In The Back Leaving. SLADOS
+don't let you get away.
 
 In the modern software development world, the new yardstick is
 measured in how agile you are. Are you're tired of being less agile
@@ -7,30 +15,36 @@ than the others? SLADOS is for you!
 Other methodologies have shown admirable lapses of judgement in what
 they call agile, but with SLADOS the game changes completely.
 
+## The Manifesto
 
-Manifesto for Agile Software Development
+You may have heard of the Agile Manifesto. Apparently a bunch bearded
+hippies met in the middle of nowhere, did hippie stuff for a weekend
+and came out of the fog with the following:
 
+### Manifesto for Agile Software Development
 
-We are uncovering better ways of developing
-software by doing it and helping others do it.
-Through this work we have come to value:
+> We are uncovering better ways of developing software by doing it and
+> helping others do it. Through this work we have come to value:
+>
+> * Individuals and interactions over processes and tools
+> * Working software over comprehensive documentation
+> * Customer collaboration over contract negotiation
+> * Responding to change over following a plan
 
-Individuals and interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
-Responding to change over following a plan
-
-That is, while there is value in the items on
-the right, we value the items on the left more.
+> That is, while there is value in the items on the right, we value
+> the items on the left more.
 
 Värdet finns uppenbarligen på vänster sida. Det till höger är något
 deras barn släpat hem från slöjden.
 
-SLADOS Manifesto for Agile Software Development
+Now, you're probably wondering where's the business in all of this?
+Well I'm here to tell you.
 
-We heard that others had uncovered better ways of charging money for
-developing software by talking a lot about it and letting others do
-it.  We want a part of this.
+### SLADOS Manifesto for Agile Software Development
+
+> We heard that others had uncovered better ways of charging money for
+> developing software by talking a lot about it and letting others do
+> it.  We want a part of this.
 
 Learning an agile process is sometimes likened to following a path
 path. That's probably great. We will provide you with some great
@@ -42,7 +56,6 @@ often fail to deliver software that meets business requirements on
 time and within budget. Some people say it's because it's an inherent
 trait in software development, and that noone can predict things that
 hasn't been done before. We're saying they're not trying hard enough.
-
 
 We know that the problem of being agile is not changing management
 ways, or shortening feedback cycles, or learning the third verse of
@@ -63,7 +76,8 @@ ridiculous names.
 * Rupban
 
 Det är inte så konstigt att både Lean och Pokemon kommer från
-Japan. Måste fånga alla. Det är som ett veritabelt samlaralbum.
+Japan. Måste fånga alla. Det är som ett veritabelt
+samlaralbum. [Pokemonbilder]
 
 Today, we're introducing a product package to help you manage your
 agile methodology knowledge portfolio.
